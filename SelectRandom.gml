@@ -3,4 +3,4 @@
 
 var _selected = random_range(0, argument_count -1);
 
-return _selected;
+return argument[_selected];
